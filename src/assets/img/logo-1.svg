@@ -1,0 +1,69 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 379 405" width="379" height="405">
+	<title>2357903-ai</title>
+	<defs>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-58.849,-73.893,68.666,-54.687,189.741,423.549)">
+			<stop offset="0" stop-color="#f600be"/>
+			<stop offset="1" stop-color="#61136e"/>
+		</linearGradient>
+		<linearGradient id="g2" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(244.659,-232.487,85.783,90.274,26.712,342.077)">
+			<stop offset="0" stop-color="#f600be"/>
+			<stop offset="1" stop-color="#61136e"/>
+		</linearGradient>
+		<linearGradient id="g3" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(280.892,213.89,-159.599,209.594,272.694,-12.993)">
+			<stop offset="0" stop-color="#f600be"/>
+			<stop offset="1" stop-color="#61136e"/>
+		</linearGradient>
+		<linearGradient id="g4" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(247.422,-235.112,234.252,246.517,107.715,402.47)">
+			<stop offset="0" stop-color="#f600be"/>
+			<stop offset="1" stop-color="#61136e"/>
+		</linearGradient>
+		<linearGradient id="g5" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(58.849,73.893,-68.666,54.687,191.338,-16.35)">
+			<stop offset="0" stop-color="#f600be"/>
+			<stop offset="1" stop-color="#61136e"/>
+		</linearGradient>
+		<linearGradient id="g6" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-244.659,232.487,-85.783,-90.274,354.367,65.121)">
+			<stop offset="0" stop-color="#f600be"/>
+			<stop offset="1" stop-color="#61136e"/>
+		</linearGradient>
+		<linearGradient id="g7" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-95.807,95.807,-139.757,-139.757,205.789,248.032)">
+			<stop offset="0" stop-color="#f600be"/>
+			<stop offset="1" stop-color="#61136e"/>
+		</linearGradient>
+		<linearGradient id="g8" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-247.422,235.112,-234.251,-246.516,273.365,4.729)">
+			<stop offset="0" stop-color="#f600be"/>
+			<stop offset="1" stop-color="#61136e"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+		.s2 { fill: url(#g3) } 
+		.s3 { fill: url(#g4) } 
+		.s4 { fill: url(#g5) } 
+		.s5 { fill: url(#g6) } 
+		.s6 { fill: url(#g7) } 
+		.s7 { fill: url(#g8) } 
+	</style>
+	<g id="BACKGROUND">
+	</g>
+	<g id="OBJECTS">
+		<g id="&lt;Group&gt;">
+			<g id="&lt;Group&gt;">
+				<path id="&lt;Path&gt;" class="s0" d="m200.9 398l-51.1-37.6 42.1-31 9 6.6c23.3 17.1 23.3 44.9 0 62z"/>
+				<g id="&lt;Group&gt;">
+					<path id="&lt;Path&gt;" class="s1" d="m271.6 137.7l31 22.8c11.3 8.3 11.3 21.7 0 30l-150.3 110.5c-23 16.9-23 44.4 0 61.3l191.9-141.1c34.3-25.3 34.3-66.2 0-91.4l-30.9-22.7z"/>
+					<path id="&lt;Path&gt;" class="s2" d="m302.6 160.5c0 0 61.3 38.6 7.9 85.4l33.7-24.7c34.3-25.3 34.3-66.2 0-91.4l-73.1-53.8c-23 17-23 44.4 0 61.3z"/>
+				</g>
+				<path id="&lt;Path&gt;" class="s3" d="m194.5 331.3c0 0-41.4 31.6-9.2 55.3l-35.5-26.2 23.2-34.2z"/>
+			</g>
+			<g id="&lt;Group&gt;">
+				<path id="&lt;Path&gt;" class="s4" d="m180.2 9.2l51.1 37.6-42.1 31-9-6.6c-23.3-17.1-23.3-44.9 0-62z"/>
+				<g id="&lt;Group&gt;">
+					<path id="&lt;Path&gt;" class="s5" d="m109.5 269.5l-31-22.8c-11.3-8.3-11.3-21.7 0-30l150.3-110.5c23-16.9 23-44.4 0-61.3l-192 141.1c-34.3 25.3-34.3 66.2 0 91.4l31 22.7z"/>
+					<path id="&lt;Path&gt;" class="s6" d="m78.5 246.7c0 0-61.3-38.6-8-85.4l-33.7 24.7c-34.3 25.3-34.3 66.1 0 91.4l73.2 53.8c23-17 23-44.4 0-61.3z"/>
+				</g>
+				<path id="&lt;Path&gt;" class="s7" d="m186.6 75.9c0 0 41.4-31.6 9.1-55.3l35.6 26.2-23.3 34.2z"/>
+			</g>
+		</g>
+	</g>
+</svg>

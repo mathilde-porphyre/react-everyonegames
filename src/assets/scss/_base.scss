@@ -1,0 +1,30 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+    font-weight: 400;
+
+    background: linear-gradient(90deg, rgba(0,22,38,1) 0%, rgba(1,41,83,1) 24%, rgba(63,5,55,1) 71%, rgba(29,2,21,1) 100%);
+    color: #ffffff;
+
+}
+
+.container {
+    max-width: 1110px;
+    margin: 0 auto;
+}
+
+img {
+    max-width: 100%;
+}
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+  }
